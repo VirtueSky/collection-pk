@@ -4,7 +4,7 @@
     "description": "Include library Odin, UniTask, UniRx, Dotween",
     "version": "1.0.0",
     "unity": "2021.3",
-    "category": "graywolves",
+    "category": "virtuesky",
     "keywords": [
         "UniTask",
         "UniRx",
